@@ -14,7 +14,7 @@ Education
 * B.S. in Data Science, UC San Diego, 2021 (expected)
 * B.S. in Probability & Statistics, UC San Diego, 2021 (expected)
 
-Work experience
+Teaching Experience
 ======
 * Spring 2020: Instructional Assistant for DSC 190 -- Introduction to Data Mining
   * UC San Diego
