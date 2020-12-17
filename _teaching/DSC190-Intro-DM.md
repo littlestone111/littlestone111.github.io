@@ -1,9 +1,9 @@
 ---
-title: "2020-Fall-CSE291-Advanced Data-Driven Text Mining"
+title: "DSC 190 -- Introduction to Data Mining"
 collection: teaching
-type: "Graduate Class"
-permalink: /teaching/2020-fall-CSE291-TM
-venue: "CSE, UCSD"
-date: 2020-09-28
+type: "nstructional Assistant"
+permalink: /teaching/DSC-190
+venue: "HDSI, UCSD"
+date: 2020-04-01
 location: "La Jolla, CA"
 ---
