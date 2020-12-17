@@ -1,10 +1,10 @@
 ---
-title: "Instructional Assistant for DSC 10 Principles of Data Science"
+title: "DSC 10 -- Principles of Data Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructional Assistant"
 permalink: /teaching/
-venue: "Data Science, UCSD"
-date: 2014-01-01
+venue: "HDSI, UCSD"
+date: 2018-04-01
 location: "La Jolla, CA"
 ---
 
