@@ -1,0 +1,14 @@
+# main links links
+main:
+
+  - title: "Experience"
+    url: /experience/
+  
+  - title: "Projects"
+    url: /project/
+    
+  - title: "Teaching"
+    url: /teaching/    
+
+
+    
