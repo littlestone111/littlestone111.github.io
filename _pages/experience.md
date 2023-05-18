@@ -23,6 +23,8 @@ redirect_from:
 # Industrial Experience
 
 - Indeed.com, New York City, NY
+  Business Intelligence Analyst Jan 2023 - Mar 2023
+  Business Intelligence Intern Jun 2022 - Sep 2022
 
 # Selected Awards and Honors
 
