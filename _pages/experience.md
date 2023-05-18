@@ -29,10 +29,3 @@ redirect_from:
 
 - Provost Honors (Award Quarterly for GPA 3.5 or above.) 2017 - 2021
 - 3rd Place in Topcoder X UCSD Lightning Marathon Match. Mar 2019
-
-# Skills
-
-- Languages: Mandarin and English.
-- Programming: Python, R, MATLAB, SQL, Java, JavaScript, Bash.
-- Data Science: PyTorch, Scikit-learn, SciPy, NLTK, Numpy, Pandas, Matplotlib, PySpark, Dask.
-- Others: Docker, HTML, BeautifulSoup, CSS.
