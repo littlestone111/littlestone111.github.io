@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first year Ph.D. student in the Department of Applied Science at College of William & Mary and advised by [Haipeng Chen](https://haipeng-chen.github.io/). Before Joining, I received M.S. in Computer Science from Columbia University and B.S. double major in Data Science and Probability & Statistics from University of California, San Diego. During my undergraduate study, I was fortunate to learn and advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).
+Hello! I am a first year Data Science Ph.D. student in the [Department of Applied Science](https://www.wm.edu/as/data-science/) at College of William & Mary, and very fortunately advised by Prof. [Haipeng Chen](https://haipeng-chen.github.io/).
+
+Before Joining, I received [M.S. in Computer Science](https://www.cs.columbia.edu/) from Columbia University and B.S. double major in [Data Science](https://datascience.ucsd.edu/) and [Probability & Statistics](https://math.ucsd.edu/) from University of California, San Diego. During my undergraduate study at UCSD, I was fortunate to learn and advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).
