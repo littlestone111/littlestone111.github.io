@@ -29,7 +29,7 @@ redirect_from:
 
 # Fellowship 
 
-- William and Mary Summer Research Fellowship.
+- William and Mary Summer Research Fellowship. May 2024
 
 # Selected Awards and Honors
 
