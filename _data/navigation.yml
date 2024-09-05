@@ -4,11 +4,11 @@ main:
   - title: "Experience"
     url: /experience/
   
-  - title: "Projects"
-    url: /project/
+  - title: "Publication"
+    url: /publications/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
 
 
     
