@@ -34,7 +34,7 @@ redirect_from:
 
 # Service 
 
-- AAAI-25 Student Volunteer. \hfill Feb 2025
+- AAAI-25 Student Volunteer. Feb 2025
 
 # Selected Awards and Honors
 
