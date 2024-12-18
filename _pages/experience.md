@@ -34,6 +34,7 @@ redirect_from:
 
 # Service 
 
+- DS Ph.D. student representative at  Virginia Tech graduate and professional school fair. Oct 2024
 - AAAI-25 Student Volunteer. Feb 2025
 
 # Selected Awards and Honors
