@@ -30,6 +30,11 @@ redirect_from:
 # Fellowship 
 
 - William and Mary Summer Research Fellowship. May 2024
+- AAAI-25 Student Scholarship. Dec 2025
+
+# Service 
+
+- AAAI-25 Student Volunteer. \hfill Feb 2025
 
 # Selected Awards and Honors
 
