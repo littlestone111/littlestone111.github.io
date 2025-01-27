@@ -84,7 +84,7 @@ author:
   location: "Williamsburg, VA"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?user=94CH-sgAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=94CH-sgAAAAJ&view_op=list_works&sortby=pubdate"
   email: "yli102@wm.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
