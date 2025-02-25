@@ -39,6 +39,6 @@ redirect_from:
 
 # Selected Awards and Honors
 
-- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring Feb 2025
+- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring. Feb 2025
 - Provost Honors (Award Quarterly for GPA 3.5 or above.) 2017 - 2021
 - 3rd Place in Topcoder X UCSD Lightning Marathon Match. Mar 2019
