@@ -13,6 +13,7 @@ redirect_from:
 - B.S. in Data Science, UC San Diego, 2021. (Cum Laude)
 - B.S. in Probability & Statistics, UC San Diego, 2021. (Cum Laude)
 - M.S. in Computer Science (Machine Learning Track), Columbia University, 2022.
+- M.S. in Applied Science (Data Science), The College of William & Mary, 2025.
 - Ph.D. in Applied Science (Data Science Specialization), The College of William & Mary, 2027.(Expected)
 
 # Academic Employement
@@ -40,6 +41,6 @@ redirect_from:
 
 # Selected Awards and Honors
 
-- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring[[link]](https://www.wm.edu/as/graduate/studentresources/honors-awards/sanderson/recipients/). Feb 2025
+- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring [[link]](https://www.wm.edu/as/graduate/studentresources/honors-awards/sanderson/recipients/). Feb 2025
 - Provost Honors (Award Quarterly for GPA 3.5 or above.) 2017 - 2021
 - 3rd Place in Topcoder X UCSD Lightning Marathon Match. Mar 2019
