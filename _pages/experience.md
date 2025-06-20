@@ -18,7 +18,7 @@ redirect_from:
 # Academic Employement
 
 - Graduate Research Assistant, W&M Data-Driven Decision Intelligence Lab, W&M. Sep 2023 - Present
-- Graduate HPC Consultant, W&M HPC Team, W&M. Sep 2023 - Present
+- Graduate HPC Consultant, W&M HPC Team, W&M. Sep 2023 - May 2025
 - Undergrad Researcher, UCSD Data Mining Lab, UCSD. Dec 2019 – Mar 2021
 - Undergrad Instructional Assistant, Halıcıoğlu Data Science Institute, UCSD. Mar 2018 - Apr 2021
 
