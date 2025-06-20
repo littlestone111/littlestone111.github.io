@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 2nd year Ph.D. student in the [Department of Applied Science](https://www.wm.edu/as/data-science/) at the College of William & Mary, and fortunately advised by Prof. [Haipeng Chen](https://haipeng-chen.github.io/).
+Hello! I am a 3rd year Ph.D. Candidate in the [Department of Applied Science](https://www.wm.edu/as/data-science/) at the College of William & Mary, and fortunately advised by Prof. [Haipeng Chen](https://haipeng-chen.github.io/).
 
 Before Joining, I received M.S. in [Computer Science](https://www.cs.columbia.edu/) from Columbia University and B.S. double major in [Data Science](https://datascience.ucsd.edu/) and [Probability & Statistics](https://math.ucsd.edu/) from University of California, San Diego. During my undergraduate study at UCSD, I was fortunate to learn and advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).
 
 ## News
 
 - April, 2025 - I will be joining Microsoft as a summer research intern in Redmond, Washington.
+- December, 2024 - Our paper "Population Aware Diffusion for Time Series Generation" is accepted by AAAI 2025
 
-
-
+<!-- 
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
   <li> December, 2024 - Our paper "Population Aware Diffusion for Time Series Generation" is accepted by AAAI 2025.</li>
 </ul>
-</details>
+</details> -->
 
 
 

@@ -24,6 +24,7 @@ redirect_from:
 
 # Industrial Experience
 
+- Research Intern, Microsoft, Redmond, WA, May 2025 - Aug 2025
 - Business Intelligence Analyst, Indeed.com, New York City, NY, Jan 2023 - May 2023
 - Business Intelligence Intern, Indeed.com, New York City, NY, Jun 2022 - Sep 2022
 
@@ -39,6 +40,6 @@ redirect_from:
 
 # Selected Awards and Honors
 
-- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring. Feb 2025
+- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring[[link]](https://www.wm.edu/as/graduate/studentresources/honors-awards/sanderson/recipients/). Feb 2025
 - Provost Honors (Award Quarterly for GPA 3.5 or above.) 2017 - 2021
 - 3rd Place in Topcoder X UCSD Lightning Marathon Match. Mar 2019
