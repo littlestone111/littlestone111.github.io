@@ -13,5 +13,5 @@ In Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI**)
 
 
 2. Han Xu, **Yang Li**, Yanhai Xiong, Robert Mintern, Amir Louka, and Haipeng Chen. \ 
-AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping. (**CIKM** Industry Day track, short paper), 2025.
+AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping. (**CIKM** Industry Day track, short paper), 2025
 
