@@ -14,6 +14,7 @@ Before Joining, I received M.S. in [Computer Science](https://www.cs.columbia.ed
 
 ## News
 
+- Aug, 2025 - Our short paper "AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping" is accepted by CIKM 2025 Industrial Day Talk track.
 - April, 2025 - I will be joining Microsoft as a summer research intern in Redmond, Washington.
 - December, 2024 - Our paper "Population Aware Diffusion for Time Series Generation" is accepted by AAAI 2025
 
