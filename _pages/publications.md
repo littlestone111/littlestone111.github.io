@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+[[Google Scholar](https://scholar.google.com/citations?user=94CH-sgAAAAJ&hl=en)]
 1. **Yang Li**, Han Meng, Zhenyu Bi, Ingolv T. Urnes, and Haipeng Chen. \
 Population Aware Diffusion for Time Series Generation. [[Arxiv](https://arxiv.org/abs/2501.00910)] [[Code](https://github.com/wmd3i/PaD-TS)]
 \
