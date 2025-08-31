@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- B.S. in Data Science, UC San Diego, 2021. (Cum Laude)
+- B.S. in Probability & Statistics, UC San Diego, 2021. (Cum Laude)
+- M.S. in Computer Science (Machine Learning Track), Columbia University, 2022.
+- M.S. in Applied Science (Data Science), The College of William & Mary, 2025.
+- Ph.D. in Applied Science (Data Science Specialization), The College of William & Mary, 2027.(Expected)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Academic Employement
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Graduate Research Assistant, W&M Data-Driven Decision Intelligence Lab, W&M. Sep 2023 - Present
+- Graduate HPC Consultant, W&M HPC Team, W&M. Sep 2023 - May 2025
+- Undergrad Researcher, UCSD Data Mining Lab, UCSD. Dec 2019 – Mar 2021
+- Undergrad Instructional Assistant, Halıcıoğlu Data Science Institute, UCSD. Mar 2018 - Apr 2021
+
+# Industrial Experience
+
+- Research Intern, Microsoft, Redmond, WA, May 2025 - Aug 2025
+- Business Intelligence Analyst, Indeed.com, New York City, NY, Jan 2023 - May 2023
+- Business Intelligence Intern, Indeed.com, New York City, NY, Jun 2022 - Sep 2022
+
+# Fellowship 
+
+- William and Mary Summer Research Fellowship. May 2024
+- AAAI-25 Student Scholarship. Feb 2025
+
+# Service 
+
+- DS Ph.D. student representative at  Virginia Tech graduate and professional school fair. Oct 2024
+- AAAI-25 Student Volunteer. Feb 2025
+
+# Selected Awards and Honors
+
+- William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring [[link]](https://www.wm.edu/as/graduate/studentresources/honors-awards/sanderson/recipients/). Feb 2025
+- Provost Honors (Award Quarterly for GPA 3.5 or above.) 2017 - 2021
+- 3rd Place in Topcoder X UCSD Lightning Marathon Match. Mar 2019
