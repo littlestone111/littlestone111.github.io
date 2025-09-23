@@ -40,6 +40,7 @@ redirect_from:
 
 - DS Ph.D. student representative at  Virginia Tech graduate and professional school fair. Oct 2024
 - AAAI-25 Student Volunteer. Feb 2025
+- Conference Reviewer: ICML 2025, ICLR 2026, ML4H 2025, ICCV Trustworthy FMs Workshop 2025. 
 
 ## Selected Awards and Honors
 
