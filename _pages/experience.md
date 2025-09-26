@@ -16,18 +16,22 @@ redirect_from:
 - B.S. in Probability & Statistics, UC San Diego, 2021. (Cum Laude)
 - M.S. in Computer Science (Machine Learning Track), Columbia University, 2022.
 - M.S. in Applied Science (Data Science), The College of William & Mary, 2025.
-- Ph.D. in Applied Science (Data Science Specialization), The College of William & Mary, 2027.(Expected)
+- Ph.D. in Applied Science (Data Science), The College of William & Mary, 2027.(Expected)
 
 ## Academic Employement
 
 - Graduate Research Assistant, W&M Data-Driven Decision Intelligence Lab, W&M. Sep 2023 - Present
+  - Advisor: Prof. Haipeng Chen
 - Graduate HPC Consultant, W&M HPC Team, W&M. Sep 2023 - May 2025
+  - Advisor: Dr. Eric J. Walter
 - Undergrad Researcher, UCSD Data Mining Lab, UCSD. Dec 2019 – Mar 2021
+  - Advisor: Prof. Jingbo Shang
 - Undergrad Instructional Assistant, Halıcıoğlu Data Science Institute, UCSD. Mar 2018 - Apr 2021
 
 ## Industrial Experience
 
 - Research Intern, Microsoft, Redmond, WA, May 2025 - Aug 2025
+  - Mentors: Erik Larsson, Dr. Nate Bodenstab, Eric Marshall, Arlie Coles, and Dr. Bonnie Ho
 - Business Intelligence Analyst, Indeed.com, New York City, NY, Jan 2023 - May 2023
 - Business Intelligence Intern, Indeed.com, New York City, NY, Jun 2022 - Sep 2022
 
