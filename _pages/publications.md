@@ -17,3 +17,7 @@ In Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI**)
 2. Han Xu, **Yang Li**, Yanhai Xiong, Robert Mintern, Amir Louka, and Haipeng Chen. \
 AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping. \
 In the 34th ACM International Conference on Information and Knowledge Management (**CIKM** Industry Day track, short paper), 2025
+
+3. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
+OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning.\
+In Proceedings on Findings of 4th Asia-Pacific Chapter of the Association for Computational Linguistics (**AACL** Findings), 2025
