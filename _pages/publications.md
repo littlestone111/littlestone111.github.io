@@ -20,4 +20,4 @@ In the 34th ACM International Conference on Information and Knowledge Management
 
 3. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
 OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning.\
-In Proceedings on Findings of 4th Asia-Pacific Chapter of the Association for Computational Linguistics (**AACL** Findings), 2025 [[Arxiv](https://arxiv.org/abs/2510.18032)]
+In Proceedings on Findings of 14th International Joint Conference on Natural Language Processing & 4th Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL** Findings), 2025 [[Arxiv](https://arxiv.org/abs/2510.18032)]
