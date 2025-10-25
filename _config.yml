@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yang Li" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yang Li"
-description              : &description "Applied Science Ph.D. candidate @ William & Mary"
+description              : &description "Yang Li's homepage at W&M" #"A brief description of your site"
 url                      : https://littlestone111.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "littlestone111/littlestone111.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"
   bio              : "Applied Science Ph.D. Candidate"
   location         : "Williamsburg, VA"
-  employer         : "William & Mary"
+  employer         : "William & Mary (W&M)"
   uri              : # URL
   email            : "yli102@wm.edu"
 
