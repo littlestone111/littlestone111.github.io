@@ -8,16 +8,16 @@ author_profile: true
 {% include base_path %}
 
 [[Google Scholar](https://scholar.google.com/citations?user=94CH-sgAAAAJ&hl=en)]
-1. **Yang Li**, Han Meng, Zhenyu Bi, Ingolv T. Urnes, and Haipeng Chen. \
-Population Aware Diffusion for Time Series Generation. [[Arxiv](https://arxiv.org/abs/2501.00910)] [[Code](https://github.com/wmd3i/PaD-TS)]
-\
-In Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI**), 2025. (acceptance rate = 23.4%)
 
+1. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
+OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning. [[Arxiv](https://arxiv.org/abs/2510.18032)]\
+In Proceedings on Findings of 14th International Joint Conference on Natural Language Processing & 4th Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL** Findings), 2025 
 
 2. Han Xu, **Yang Li**, Yanhai Xiong, Robert Mintern, Amir Louka, and Haipeng Chen. \
 AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping. \
 In the 34th ACM International Conference on Information and Knowledge Management (**CIKM** Industry Day track, short paper), 2025
 
-3. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
-OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning. [[Arxiv](https://arxiv.org/abs/2510.18032)]\
-In Proceedings on Findings of 14th International Joint Conference on Natural Language Processing & 4th Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL** Findings), 2025 
+3. **Yang Li**, Han Meng, Zhenyu Bi, Ingolv T. Urnes, and Haipeng Chen. \
+Population Aware Diffusion for Time Series Generation. [[Arxiv](https://arxiv.org/abs/2501.00910)] [[Code](https://github.com/wmd3i/PaD-TS)]
+\
+In Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI**), 2025. (acceptance rate = 23.4%)
