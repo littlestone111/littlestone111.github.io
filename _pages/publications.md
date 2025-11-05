@@ -11,7 +11,7 @@ More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20S
 
 
 1. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
-OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning.[![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)]((https://arxiv.org/abs/2510.18032))\
+OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2510.18032) \
 In Proceedings on Findings of 14th International Joint Conference on Natural Language Processing & 4th Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL** Findings), 2025 
 
 2. Syna, Bhavana Kunisetty, Chuyi Zhang, **Yang Li**, Anna Simos, Agatha Scheideman, Mandy Shao, Yanfu Zhang, David Klonoff, Helge Rader, Marina Basina, Michael Snyder, Haipeng Chen, Tao Wang. \
