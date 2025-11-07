@@ -10,9 +10,9 @@ author_profile: true
 More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=plastic)](https://scholar.google.com/citations?user=94CH-sgAAAAJ&hl=en)
 
 
-1.Zhenyu Bi, Gaurav Srivastava, **Yang Li**, Swastik Roy, Meng Lu, Morteza Ziyadi, Xuan Wang. \ 
-JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation
-In Proceedings of the 40th AAAI Conference on Artificial Intelligence (**AAAI Oral**) , 2026. (acceptance rate = 17.6%)
+1. Zhenyu Bi, Gaurav Srivastava, **Yang Li**, Swastik Roy, Meng Lu, Morteza Ziyadi, Xuan Wang. \
+JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation. \
+In Proceedings of the 40th AAAI Conference on Artificial Intelligence (**AAAI Oral**) , 2026. (acceptance rate = 17.6%).
 
 2. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
 OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2510.18032) \
