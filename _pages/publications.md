@@ -23,7 +23,7 @@ SWEET: Large Language Model Benchmark for Scalable Diabetes Patient Education. \
 In The Diabetes Technology Meeting (DTM), 2025.
 
 4. Han Xu, **Yang Li**, Yanhai Xiong, Robert Mintern, Amir Louka, and Haipeng Chen. \
-AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping. \
+AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping. [![ACM Badge](https://img.shields.io/badge/ACM-0085CA?logo=acm&logoColor=fff&style=flat-plastic)](https://dl.acm.org/doi/abs/10.1145/3746252.3761438)\
 In the 34th ACM International Conference on Information and Knowledge Management (**CIKM** Industry Day track, short paper), 2025
 
 5. **Yang Li**, Han Meng, Zhenyu Bi, Ingolv T. Urnes, and Haipeng Chen. \
