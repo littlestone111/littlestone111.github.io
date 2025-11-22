@@ -11,7 +11,7 @@ More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20S
 
 
 1. Zhenyu Bi, Gaurav Srivastava, **Yang Li**, Swastik Roy, Meng Lu, Morteza Ziyadi, Xuan Wang. \
-JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation. \
+JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2511.15958v1) \
 In Proceedings of the 40th AAAI Conference on Artificial Intelligence (**AAAI Oral**) , 2026. (acceptance rate = 17.6%).
 
 2. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
