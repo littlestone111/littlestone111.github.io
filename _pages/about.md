@@ -25,6 +25,7 @@ Before Joining, I received M.S. in [Computer Science](https://www.cs.columbia.ed
 - Apr, 2025 - I will be joining Microsoft as a summer research intern in Redmond, Washington.
 - Mar, 2025 - I am honored to receive the William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring.
 - Dec, 2024 - Our paper "PaD-TS: Population Aware Diffusion for Time Series Generation" is accepted by AAAI 2025.
+
 </details>
 
 
