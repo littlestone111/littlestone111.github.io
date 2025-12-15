@@ -12,9 +12,9 @@ Hello! I am a 3rd year Ph.D. candidate in the [Department of Data Science](https
 Before Joining, I received M.S. in [Computer Science](https://www.cs.columbia.edu/) from Columbia University and B.S. double major in [Data Science](https://datascience.ucsd.edu/) and [Probability & Statistics](https://math.ucsd.edu/) from University of California, San Diego. During my undergraduate study at UCSD, I was fortunate to learn and advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).
 
 ## News
-- Dec, 2025 - I will be joining Meta as a summer intern in Menlo Park, California.
+- Dec, 2025 - I will be joining Meta as a summer SWE (ML) intern in Menlo Park, California.
 - Nov, 2025 - Our paper "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation" is accepted by AAAI 2026 for an Oral presentation.
-- Oct, 2025 - I am honored to present PaD-TS at the first Meta PhD Forum in Menlo Park, California.
+- Oct, 2025 - I am honored to present our paper "PaD-TS: Population Aware Diffusion for Time Series Generation" at the first Meta PhD Forum in Menlo Park, California.
 - Oct, 2025 - Our paper "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning" is accepted by AACL 2025.
 - Aug, 2025 - Our short paper "AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping" is accepted by CIKM 2025 Industrial Day Talk track.
 
