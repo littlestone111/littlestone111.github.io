@@ -14,6 +14,10 @@ More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20S
 JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2511.15958v1) \
 In Proceedings of the 40th AAAI Conference on Artificial Intelligence (**AAAI Oral**) , 2026. (acceptance rate = 17.6%).
 
+2. **Yang Li**, Han Meng, Chenan Wang, Haipeng Chen. \
+DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) \
+Under review. 
+
 
 ## 2025
 1. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
