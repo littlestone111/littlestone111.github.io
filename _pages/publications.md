@@ -18,6 +18,9 @@ In Proceedings of the 40th AAAI Conference on Artificial Intelligence (**AAAI Or
 DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) \
 Under review. 
 
+3. Jimmy Bach, **Yang Li**, Yaqi Liu, John Sankok, Rose Kimani, Carrie B. Dolan, Julius N. Odhiambo, Haipeng Chen. \
+Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2604.08902) \
+
 
 ## 2025
 1. Zhenyu Bi, Meng Lu, **Yang Li**, Swastik Roy, Weijie Guan, Morteza Ziyadi, Xuan Wang. \
