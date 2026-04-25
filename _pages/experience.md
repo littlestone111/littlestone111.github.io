@@ -23,7 +23,7 @@ redirect_from:
 - Graduate Research Assistant, W&M Data-Driven Decision Intelligence Lab, W&M. Sep 2023 - Present
   - Advisor: Prof. Haipeng Chen
 - Graduate HPC Consultant, W&M HPC Team, W&M. Sep 2023 - May 2025
-  - Advisor: Dr. Eric J. Walter
+  - Advisor: Dr. Eric J. Walter and J. Matt Kennedy.
 - Undergrad Researcher, UCSD Data Mining Lab, UCSD. Dec 2019 – Mar 2021
   - Advisor: Prof. Jingbo Shang
 - Undergrad Instructional Assistant, Halıcıoğlu Data Science Institute, UCSD. Mar 2018 - Apr 2021

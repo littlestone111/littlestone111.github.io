@@ -20,6 +20,7 @@ Under review.
 
 3. Jimmy Bach, **Yang Li**, Yaqi Liu, John Sankok, Rose Kimani, Carrie B. Dolan, Julius N. Odhiambo, Haipeng Chen. \
 Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2604.08902) \
+Under review. 
 
 
 ## 2025
