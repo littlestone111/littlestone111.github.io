@@ -19,11 +19,11 @@ DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](h
 Under review. 
 
 3. Jimmy Bach, **Yang Li**, Yaqi Liu, John Sankok, Rose Kimani, Carrie B. Dolan, Julius N. Odhiambo, Haipeng Chen. \
-Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2604.08902) \
+Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2604.08902)
 Under review.
 
 4. Han Meng, Xinsong Feng, **Yang Li**, Chenan Wang, Kishansingh Rajput, Malachi Schram, Haipeng Chen. \
-Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning. [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/CMFO) \ 
+Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning. [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/CMFO) 
 Transactions on Machine Learning Research (TMLR), 2026.
 
 
