@@ -23,8 +23,8 @@ Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction
 Under review.
 
 4. Han Meng, Xinsong Feng, **Yang Li**, Chenan Wang, Kishansingh Rajput, Malachi Schram, Haipeng Chen. \
-Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning. [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-2E86AB.svg)](https://openreview.net/forum?id=QW0ZX4zRC2) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/CMFO) \
-Transactions on Machine Learning Research (TMLR), 2026.
+Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning. \
+Transactions on Machine Learning Research (TMLR), 2026. [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-2E86AB.svg)](https://openreview.net/forum?id=QW0ZX4zRC2) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/CMFO)
 
 
 
