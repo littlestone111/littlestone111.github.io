@@ -30,6 +30,7 @@ redirect_from:
 
 ## Industrial Experience
 
+- Software Engineer Intern, Meta, Menlo Park, CA, June 2026 - Aug 2026
 - Research Intern, Microsoft, Redmond, WA, May 2025 - Aug 2025
   - Mentors: Erik Larsson, Dr. Nate Bodenstab, Eric Marshall, Arlie Coles, and Dr. Bonnie Ho
 - Business Intelligence Analyst, Indeed.com, New York City, NY, Jan 2023 - May 2023
