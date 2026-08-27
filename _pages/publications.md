@@ -10,13 +10,14 @@ author_profile: true
 More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=plastic)](https://scholar.google.com/citations?user=94CH-sgAAAAJ&hl=en)
 
 ## 2026
-1. Zhenyu Bi, Gaurav Srivastava, **Yang Li**, Swastik Roy, Meng Lu, Morteza Ziyadi, Xuan Wang. \
+1. **Yang Li**, Han Meng, Chenan Wang, Zhenyu Bi, Xuan Wang, Haipeng Chen. \
+DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) \
+In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP** Findings), 2026. (acceptance rate = 29.7%)
+
+
+2. Zhenyu Bi, Gaurav Srivastava, **Yang Li**, Swastik Roy, Meng Lu, Morteza Ziyadi, Xuan Wang. \
 JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2511.15958v1) \
 In Proceedings of the 40th AAAI Conference on Artificial Intelligence (**AAAI Oral**) , 2026. (acceptance rate = 17.6%).
-
-2. **Yang Li**, Han Meng, Chenan Wang, Zhenyu Bi, Xuan Wang, Haipeng Chen. \
-DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) \
-Under review. 
 
 3. Jimmy Bach, **Yang Li**, Yaqi Liu, John Sankok, Rose Kimani, Carrie B. Dolan, Julius N. Odhiambo, Haipeng Chen. \
 Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2604.08902) \
