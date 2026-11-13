@@ -13,8 +13,8 @@ More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20S
 
 ## 2026
 1. **Yang Li**, Han Meng, Chenan Wang, Zhenyu Bi, Xuan Wang, Haipeng Chen. \
-DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/DIP)\
-In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP** Findings), 2026. (acceptance rate = 29.7%)
+DIP: Dynamic In-Context Planner For Diffusion Language Models. \
+In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP** Findings), 2026. (acceptance rate = 29.7%) [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/DIP)
 
 
 2. Zhenyu Bi, Gaurav Srivastava, **Yang Li**, Swastik Roy, Meng Lu, Morteza Ziyadi, Xuan Wang. \
