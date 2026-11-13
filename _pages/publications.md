@@ -29,9 +29,9 @@ Under review.
 Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning. \
 Transactions on Machine Learning Research (TMLR), 2026. [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-2E86AB.svg)](https://openreview.net/forum?id=QW0ZX4zRC2) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/CMFO)
 
-5. **Yang Li***, Yaguang Liu*, Heng Liu*, Shengbo Guo*, Samson Komo*, Jane Kou, Yulian Zhou, Gang Yang, Shubhojeet Sarkar, Gaurav Chakravorty, Yujie Liu, Haipeng Chen, Yonghuan Yang, Deepti Chheda, Yamin Wang, Mike Plumpe, Rish Tandon. \
+5. **Yang Li**\*, Yaguang Liu\*, Heng Liu\*, Shengbo Guo\*, Samson Komo\*, Jane Kou, Yulian Zhou, Gang Yang, Shubhojeet Sarkar, Gaurav Chakravorty, Yujie Liu, Haipeng Chen, Yonghuan Yang, Deepti Chheda, Yamin Wang, Mike Plumpe, Rish Tandon. \
 Exploring Forum Post Retrieval with Generative Modeling. \
-Work done during internship at ![Meta Badge](https://img.shields.io/badge/Meta-0467DF?logo=meta&logoColor=fff&style=flat-square). [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2609.38646)
+Work done during internship at ![Meta Badge](https://img.shields.io/badge/Meta-0467DF?logo=meta&logoColor=fff&style=plastic). [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2609.38646)
 
 
 
