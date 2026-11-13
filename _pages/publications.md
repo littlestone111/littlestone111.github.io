@@ -9,9 +9,11 @@ author_profile: true
 
 More details in [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=plastic)](https://scholar.google.com/citations?user=94CH-sgAAAAJ&hl=en)
 
+\* indicates equal contribution.
+
 ## 2026
 1. **Yang Li**, Han Meng, Chenan Wang, Zhenyu Bi, Xuan Wang, Haipeng Chen. \
-DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) \
+DIP: Dynamic In-Context Planner For Diffusion Language Models. [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2601.03199) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github. com/wmd3i/DIP)\
 In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP** Findings), 2026. (acceptance rate = 29.7%)
 
 
@@ -26,6 +28,10 @@ Under review.
 4. Han Meng, Xinsong Feng, **Yang Li**, Chenan Wang, Kishansingh Rajput, Malachi Schram, Haipeng Chen. \
 Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning. \
 Transactions on Machine Learning Research (TMLR), 2026. [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-2E86AB.svg)](https://openreview.net/forum?id=QW0ZX4zRC2) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/wmd3i/CMFO)
+
+5. **Yang Li***, Yaguang Liu*, Heng Liu*, Shengbo Guo*, Samson Komo*, Jane Kou, Yulian Zhou, Gang Yang, Shubhojeet Sarkar, Gaurav Chakravorty, Yujie Liu, Haipeng Chen, Yonghuan Yang, Deepti Chheda, Yamin Wang, Mike Plumpe, Rish Tandon. \
+Exploring Forum Post Retrieval with Generative Modeling. \
+Work done during internship at ![Meta Badge](https://img.shields.io/badge/Meta-0467DF?logo=meta&logoColor=fff&style=flat-square). [![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=plastic)](https://arxiv.org/abs/2609.38646)
 
 
 
