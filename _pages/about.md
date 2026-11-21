@@ -15,16 +15,17 @@ Before Joining, I received M.S. in [Computer Science](https://www.cs.columbia.ed
 - Aug, 2026 - Our paper "DIP: Dynamic In-Context Planner For Diffusion Language Models" is accepted by EMNLP 2026. 
 - May, 2026 - Our paper "Solving Constrained Optimization Problems as ODE-based Models Using Reinforcement Learning" is accepted by TMLR 2026.
 - Dec, 2025 - I will be joining Meta as a summer SWE (ML) intern in Menlo Park, California.
-- Nov, 2025 - Our paper "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation" is accepted by AAAI 2026 for an Oral presentation.
-- Oct, 2025 - I am honored to present our paper "PaD-TS: Population Aware Diffusion for Time Series Generation" at the first Meta PhD Forum in Menlo Park, California.
-- Oct, 2025 - Our paper "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning" is accepted by AACL 2025.
-- Aug, 2025 - Our short paper "AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping" is accepted by CIKM 2025 Industrial Day Talk track.
+
 
 
 <details>
 <summary><b>Load More</b></summary>
 
 <ul style="PADDING-LEFT: 40px">
+  <li> Nov, 2025 - Our paper "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation" is accepted by AAAI 2026 for an Oral presentation.
+  <li> Oct, 2025 - I am honored to present our paper "PaD-TS: Population Aware Diffusion for Time Series Generation" at the first Meta PhD Forum in Menlo Park, California.
+  <li> Oct, 2025 - Our paper "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning" is accepted by AACL 2025.
+  <li> Aug, 2025 - Our short paper "AutoRuleSQL: Hybrid Text-to-SQL via Rule-Driven Fast Paths and LLM Bootstrapping" is accepted by CIKM 2025 Industrial Day Talk track.
   <li> Apr, 2025 - I will be joining Microsoft as a summer research intern in Redmond, Washington.</li>
   <li> Mar, 2025 - I am honored to receive the William and Mary Sanderson Graduate Student Awards for Excellence in Undergraduate Mentoring.</li>
   <li> Dec, 2024 - Our paper "PaD-TS: Population Aware Diffusion for Time Series Generation" is accepted by AAAI 2025.</li>
