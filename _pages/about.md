@@ -36,4 +36,7 @@ Before Joining, I received M.S. in [Computer Science](https://www.cs.columbia.ed
 
 
 ### Visits Record
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=m&d=xKal6aq3MXZMMsYmUCn6EpTuK8f1kUSGGNvTqTolVVs&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+
+<div style="max-width: 300px; margin-left: clamp(0px, calc(100% - 300px), 1rem);">
+  <script id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&amp;w=a&amp;t=m&amp;d=xKal6aq3MXZMMsYmUCn6EpTuK8f1kUSGGNvTqTolVVs&amp;co=2d78ad&amp;ct=ffffff&amp;cmo=3acc3a&amp;cmn=ff5353"></script>
+</div>
